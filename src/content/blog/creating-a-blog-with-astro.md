@@ -1,6 +1,6 @@
 ---
 title: "Creating a Blog with Astro"
-description: "Lean how I created my tech blog with real web development tools."
+description: "How I created my blog."
 pubDate: "June 03 2024"
 heroImage: "/hero/creating_a_blog_with_astro.png"
 ---
